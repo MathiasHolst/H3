@@ -1,0 +1,8 @@
+Api: Detect language
+
+Hvad jeg har tænkt mig at lave (Hvis muligt):
+
+Jeg tænker at lave et program hvor man kan skrive ind i en textbox en tekst på hvilket som helst sprog.
+Hvor den får outputtet hvilket sprog du har inputtet i textbox'en
+
+Jeg har også læst lidt op på api'en er at man kan se hvor "confident" den er i dens svar. Så det tænker jeg også at inkludere i programmet.
